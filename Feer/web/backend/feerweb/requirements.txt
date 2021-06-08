@@ -15,7 +15,7 @@ kombu==4.6.10
 MarkupPy==1.14
 odfpy==1.4.1
 openpyxl==3.0.3
-Pillow==7.1.2
+Pillow==8.2.0
 pkg-resources==0.0.0
 psycopg2==2.8.5
 pytz==2020.1
